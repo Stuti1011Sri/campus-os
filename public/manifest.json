@@ -1,0 +1,19 @@
+{
+  "short_name": "CampusOS",
+  "name": "CampusOS - Your College Life, In One Place",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#0B0F19",
+  "theme_color": "#4F46E5",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "description": "CampusOS helps students manage attendance, assignments, exams, study plans, projects and career goals in one place."
+}
+
